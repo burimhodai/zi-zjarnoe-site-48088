@@ -1,6 +1,3 @@
-Below is the complete adjusted React code with the updated company name (Insyllium) and contact information:
-
--------------------------------------------------
 import React, { useState } from 'react';
 
 function App() {
@@ -508,6 +505,3 @@ function App() {
 }
 
 export default App;
--------------------------------------------------
-
-In this updated code, the navigation brand, footer heading, and copyright now display the new company name Insyllium. Additionally, the contact information and address have been replaced as requested.
